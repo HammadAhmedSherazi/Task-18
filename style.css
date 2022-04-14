@@ -1,0 +1,116 @@
+*{
+	font-family: arial, sans serif;
+	
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url("https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	
+	
+	
+}
+header{
+	background-image: url("https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	padding:200px 0;
+	
+}
+i{
+	margin-bottom: 5px;
+}
+.topblock{
+	
+	width: 100%;
+	color: white;
+	text-align: center;
+}
+button{
+	background-color:#6e3e08;
+	margin-top:23px;
+	padding: 15px 18px;
+	border: 0px;
+	border-radius: 50px;
+	color: white;
+}
+hr{
+	width: 70px;
+	height: 4px;
+	border-radius: 2px;
+	background-color: #2298d4;
+	color: #2298d4;
+	height: 1px;
+	margin:10px auto;
+	
+}
+li{
+	display: inline;
+}
+.aboutBlock{
+	width: 100%;
+	padding: 25px 0;
+	background-color: white;
+}
+.container{
+	width:80%;
+	margin: 10px auto;
+	
+}
+.box{
+	float: left;
+	
+	margin: 40px;
+	width: 22%;
+	padding:25px 0;
+	border-bottom: 2px solid #6e3e08;
+}
+.box h3{
+	background-color:#6e3e08;
+	padding: 8px 0;
+	color: white;
+}
+p{
+	width: 100%;
+	margin: 10px auto;
+	font-size: small;
+}
+.infoBlock{
+	width: 100%;
+	background-color:#6e3e08 ;
+	color: white;
+	padding: 30px 0;
+}
+.infoBlock>hr{
+	background-color: white;
+	color: white;
+}
+td > input, select, textarea, button{
+	padding: 8px;
+	margin-left: 20px;
+	
+}
+td> input, select{
+	width:300px;
+}
+li{
+	margin: 8px;
+}
+.fblock1{
+	padding: 50px;
+}
+.fblock1 .lst1{
+	float: left;
+	color: white;
+}
+.fblock1 .lst2{
+	float: right;
+	color: white;
+}
+footer p{
+	color: white;
+	padding:0 50px;
+}
